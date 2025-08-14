@@ -105,24 +105,31 @@ python Python/Radiomics/TestRadiomics.py \
 #### 4. Create Visualizations
 
 ```bash
-# Generate overlay images (positional arguments)
+# Basic overlay with 5 axial slices
+python Python/OverlaySegmentation.py \
+    /path/to/ct_image.nii.gz \
+    /path/to/segmentation.nii.gz \
+    /path/to/overlay.png
+
+# Coronal wireframe with custom opacity
 python Python/OverlaySegmentation.py \
     /path/to/ct_image.nii.gz \
     /path/to/segmentation.nii.gz \
     /path/to/overlay.png \
+    --orientation coronal \
+    --wireframe \
     --opacity 0.8 \
-    --num_slices 5 \
-    --slice_orientation axial \
-    --wireframe
+    --num_slices 8
 
-# Alternative enhanced overlay tool
-python Python/OverlaySegmentation_deepseek.py \
+# High-resolution sagittal overlay
+python Python/OverlaySegmentation.py \
     /path/to/ct_image.nii.gz \
     /path/to/segmentation.nii.gz \
     /path/to/overlay.png \
-    --opacity 0.5 \
-    --num_slices 6 \
-    --orientation coronal
+    --orientation sagittal \
+    --num_slices 10 \
+    --dpi 300 \
+    --contour_width 2
 ```
 
 #### 5. Additional Utilities
@@ -201,8 +208,45 @@ Example structure:
 
 | Tool | Purpose | Key Features |
 |------|---------|--------------|
-| `OverlaySegmentation.py` | Create overlays | Multi-slice visualization |
-| `OverlaySegmentation_deepseek.py` | Enhanced overlays | Advanced visualization options |
+| `OverlaySegmentation.py` | Advanced overlay visualization | Multi-orientation, wireframe mode, smart slice selection, ITK-SNAP compatible orientation |
+
+#### **OverlaySegmentation.py - Advanced Features**
+
+**Smart Slice Selection:**
+- Automatically finds slices containing anatomical structures
+- Intelligent spacing across the volume
+- No more empty slices in your visualizations
+
+**Medical Image Orientation:**
+- Proper radiological display conventions
+- Matches ITK-SNAP orientation exactly
+- Supports axial, coronal, and sagittal views
+
+**Visualization Modes:**
+- **Filled overlays**: Traditional colored regions with adjustable opacity
+- **Wireframe mode**: Contour-only display with customizable line thickness
+- **Multi-label support**: Distinct colors for each anatomical structure
+
+**Publication Quality:**
+- High-resolution output (configurable DPI)
+- Professional layouts with informative titles
+- Multiple output formats (PNG, PDF, SVG)
+- Automatic grid arrangement
+
+**Usage Examples:**
+```bash
+# Quick visualization with defaults
+python Python/OverlaySegmentation.py image.nii.gz labels.nii.gz output.png
+
+# Detailed wireframe for publications
+python Python/OverlaySegmentation.py image.nii.gz labels.nii.gz figure.png \
+    --wireframe --contour_width 3 --dpi 300 --num_slices 8 \
+    --orientation sagittal --opacity 0.9
+
+# Custom transparency and layout
+python Python/OverlaySegmentation.py image.nii.gz labels.nii.gz overlay.png \
+    --opacity 0.4 --num_slices 12 --grid_cols 4 --orientation coronal
+```
 
 ## Typical Workflow
 

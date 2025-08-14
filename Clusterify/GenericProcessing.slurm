@@ -50,7 +50,11 @@ echo "Working directory: $(pwd)"
 
 # 5. Create overlay visualizations
 # echo "Creating overlay visualizations..."
-# python Python/OverlaySegmentation.py /path/to/image.nii.gz /path/to/segmentation.nii.gz /path/to/overlay.png --opacity 0.8 --slice_orientation axial
+# python Python/OverlaySegmentation.py /path/to/image.nii.gz /path/to/segmentation.nii.gz /path/to/overlay.png --orientation axial --opacity 0.8 --num_slices 5
+
+# 6. Create wireframe visualizations
+# echo "Creating wireframe contours..."
+# python Python/OverlaySegmentation.py /path/to/image.nii.gz /path/to/segmentation.nii.gz /path/to/wireframe.png --wireframe --contour_width 2 --orientation sagittal
 
 # Add your processing commands here:
 echo "Starting Head & Neck Cancer processing pipeline..."

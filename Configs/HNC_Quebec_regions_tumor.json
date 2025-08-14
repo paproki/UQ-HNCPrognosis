@@ -1,0 +1,3304 @@
+{
+    "data": [
+        {
+            "ID": "HN-HGJ-001",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-002",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-003",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-004",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-005",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-006",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-007",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-008",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-009",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-010",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-011",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-012",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-013",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-014",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-015",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-016",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-017",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-018",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-019",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-020",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-021",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-022",
+            "GTVPrimary": {
+                "name": "GTV-P",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV-G",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-023",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-024",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-025",
+            "GTVPrimary": {
+                "name": "GTV 67",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-026",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-027",
+            "GTVPrimary": {
+                "name": "gtv pet",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-028",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-029",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-030",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-031",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-032",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-033",
+            "GTVPrimary": {
+                "name": "GTV-P",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV-N",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-034",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-035",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-036",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-037",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-038",
+            "GTVPrimary": {
+                "name": "gtv pet",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-039",
+            "GTVPrimary": {
+                "name": "GTV BOT",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-040",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-041",
+            "GTVPrimary": {
+                "name": "GTV 67",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-042",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-043",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "NODAL GTV",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-044",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-045",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-046",
+            "GTVPrimary": {
+                "name": "GTV 67.5",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-047",
+            "GTVPrimary": {
+                "name": "GTV-P",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "gtv-n",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-048",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-049",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV NODE",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-050",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-051",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-052",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-053",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-054",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-055",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-056",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-057",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-058",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-059",
+            "GTVPrimary": {
+                "name": "GTV 67.5Gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-060",
+            "GTVPrimary": {
+                "name": "GTV primary_70GY",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV nodes_70GY",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-061",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV_nd_67.5gy",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-062",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-063",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-064",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV Node",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-065",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-066",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-067",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-069",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-070",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-071",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-072",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-073",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-074",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-075",
+            "GTVPrimary": {
+                "name": "GTV_70Gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-076",
+            "GTVPrimary": {
+                "name": "GTV_T_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV-Nd_67.5gy",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-077",
+            "GTVPrimary": {
+                "name": "GTV_67.5",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-078",
+            "GTVPrimary": {
+                "name": "GTV_67.5",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-079",
+            "GTVPrimary": {
+                "name": "GTV_70Gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-080",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-081",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-082",
+            "GTVPrimary": {
+                "name": "GTV_70Gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-083",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-084",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-085",
+            "GTVPrimary": {
+                "name": "GTV_69Gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-086",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-087",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-088",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-089",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-090",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-091",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HGJ-092",
+            "GTVPrimary": {
+                "name": "GTV_67.5gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-001",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-002",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-003",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-004",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV1",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-005",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV1,GTV2,GTV3,GTV4",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-006",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV1,GTV2,GTV3",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-007",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV2",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-008",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-009",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-010",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV1",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-011",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-012",
+            "GTVPrimary": {
+                "name": "GTV,GTV1,GTV2",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-013",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV1,GTV2",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-014",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV1,GTV2,GTV3",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-015",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-016",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-017",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-018",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-019",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV1,GTV2",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-020",
+            "GTVPrimary": {
+                "name": "GTVp",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTVgg",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-021",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-022",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-023",
+            "GTVPrimary": {
+                "name": "GTV langue,GTVlarynx",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTVgg",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-024",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-025",
+            "GTVPrimary": {
+                "name": "GTVp",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-026",
+            "GTVPrimary": {
+                "name": "GTVp",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTVgg1,GTVgg2",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-027",
+            "GTVPrimary": {
+                "name": "GTVp G,GTVp D",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTVggG,GTVggD,GTVgg RP",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-028",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-029",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-030",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-031",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-032",
+            "GTVPrimary": {
+                "name": "GTVp",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTVggIID,GTVggIIID,GTVggIIIG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-033",
+            "GTVPrimary": {
+                "name": "GTV-p",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV-gg1,GTV-gg2",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-034",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-035",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV2",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-036",
+            "GTVPrimary": {
+                "name": "GTVp",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-037",
+            "GTVPrimary": {
+                "name": "GTV Primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-038",
+            "GTVPrimary": {
+                "name": "GTV Primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-039",
+            "GTVPrimary": {
+                "name": "GTV2",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-040",
+            "GTVPrimary": {
+                "name": "GTV t et N",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-041",
+            "GTVPrimary": {
+                "name": "GTV T et N+",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-042",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GANGLION1",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-043",
+            "GTVPrimary": {
+                "name": "GTV T",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV N",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-044",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-045",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-046",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-047",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-048",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV2",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-049",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-050",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-051",
+            "GTVPrimary": {
+                "name": "GTV2",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV1",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-052",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV2 GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-053",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-054",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-055",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GANGLION1",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-056",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-057",
+            "GTVPrimary": {
+                "name": "GTV T et N >1 cm",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG < 1cm",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-058",
+            "GTVPrimary": {
+                "name": "GTV 2 T et N+",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-059",
+            "GTVPrimary": {
+                "name": "GTV  66 Gy",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-060",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-061",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-062",
+            "GTVPrimary": {
+                "name": "GTV2",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-063",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-064",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-065",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-066",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-067",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-068",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-069",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-070",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-071",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-072",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-073",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-074",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "IG2,IIG2,G3",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-075",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-076",
+            "GTVPrimary": {
+                "name": "GTVp",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTVggD,GTVggG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-077",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-078",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-080",
+            "GTVPrimary": {
+                "name": "GTVp",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTVgg",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-081",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-082",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-083",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-084",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-085",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-086",
+            "GTVPrimary": {
+                "name": "GTVp",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTVn",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-087",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-088",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-089",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-090",
+            "GTVPrimary": {
+                "name": "GTVp",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTVgg",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-091",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV2",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-092",
+            "GTVPrimary": {
+                "name": "GTVt",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTVggl",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-093",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-094",
+            "GTVPrimary": {
+                "name": "GTV1",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-095",
+            "GTVPrimary": {
+                "name": "GTVt",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTVn",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-096",
+            "GTVPrimary": {
+                "name": "GTVt",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTVn",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-097",
+            "GTVPrimary": {
+                "name": "GTVt",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTVn",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-098",
+            "GTVPrimary": {
+                "name": "GTV1 reperage",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-099",
+            "GTVPrimary": {
+                "name": "GTV1 fusion TEP",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-100",
+            "GTVPrimary": {
+                "name": "GTV3 GTV a prendre",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-101",
+            "GTVPrimary": {
+                "name": "GTV TEP",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUS-102",
+            "GTVPrimary": {
+                "name": "GTVt",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "ID",
+            "GTVPrimary": {
+                "name": "GTVPrimary",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "LymphNodes",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-001",
+            "GTVPrimary": {
+                "name": "GTVt",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTVn",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-002",
+            "GTVPrimary": {
+                "name": "GTVt",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTVn",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-003",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-004",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GGS",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-005",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV ggs",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-006",
+            "GTVPrimary": {
+                "name": "GTVt",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTVn",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-007",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-008",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV ggs",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-009",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GGS",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-010",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-011",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-012",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-013",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV ggs",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-014",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV ggs",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-015",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-016",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV ggs",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-017",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV ggs",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-018",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV ggs 70",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-019",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-020",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV ggs",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-021",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV ggs",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-022",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV ggs",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-023",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV ggs",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-024",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV gg",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-025",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV ggs",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-026",
+            "GTVPrimary": {
+                "name": "GTV p",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV n",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-027",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV ggs",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-028",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV ggs",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-029",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV ggs",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-030",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV ggs",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-031",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV ggs",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-032",
+            "GTVPrimary": {
+                "name": "GTVt",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTVn",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-033",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV ggs",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-034",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV ggs",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-035",
+            "GTVPrimary": {
+                "name": "GTV Primaire 70",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GGS",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-036",
+            "GTVPrimary": {
+                "name": "GTV primaire",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV ggs",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-037",
+            "GTVPrimary": {
+                "name": "GTV T irm",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV N",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-038",
+            "GTVPrimary": {
+                "name": "GTVt",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTVn",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-039",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-040",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-HMR-041",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "ID",
+            "GTVPrimary": {
+                "name": "GTVPrimary",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "LymphNodes",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-001",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-002",
+            "GTVPrimary": {
+                "name": "GTV et GG",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-003",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-004",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-005",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-006",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-007",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-008",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-009",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-010",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-011",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-012",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-013",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-014",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-015",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-016",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-017",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-018",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-019",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-020",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-021",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-022",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-023",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-024",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-025",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-026",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-027",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-028",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-029",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-030",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-031",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-032",
+            "GTVPrimary": {
+                "name": "GTV n",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV gg",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-033",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-034",
+            "GTVPrimary": {
+                "name": "GTV 70",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-035",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-036",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-037",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-038",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-039",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-040",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-041",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-042",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-043",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-044",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-045",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-046",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-047",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-048",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-049",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-050",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-051",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-052",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-053",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-054",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-055",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-056",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-057",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-058",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-059",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-060",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-061",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-062",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-063",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": "GTV GG",
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-064",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        },
+        {
+            "ID": "HN-CHUM-065",
+            "GTVPrimary": {
+                "name": "GTV",
+                "label": 1
+            },
+            "LymphNodes": {
+                "name": null,
+                "label": 4
+            }
+        }
+    ]
+}

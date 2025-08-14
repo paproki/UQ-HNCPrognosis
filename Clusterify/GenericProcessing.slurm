@@ -34,23 +34,23 @@ echo "Working directory: $(pwd)"
 
 # 1. Convert RTStruct files to NIfTI format
 # echo "Converting RTStruct files to NIfTI..."
-# python Python/RTStructToNifti.py --input_dir /path/to/dicom/data --output_dir /path/to/output --reference_image /path/to/reference.nii.gz
+# python Python/RTStructToNifti.py --rtstruct /path/to/rtstruct.dcm --reference /path/to/ct/dicom/folder --output /path/to/labels.nii.gz
 
 # 2. Process multiple patients with RTStruct conversion
 # echo "Processing multiple patients..."
-# python Python/FindAndConvertRTStructs.py --input_dir /path/to/patient/folders --output_dir /path/to/results --structlist /path/to/roi_config.json
+# python Python/FindAndConvertRTStructs.py --input_dir /path/to/patient/folders --output_dir /path/to/results --structlist Configs/HNC_Quebec_regions_tumor.json --id PatientID --dosuv --dortstruct
 
 # 3. Extract radiomics features
 # echo "Extracting radiomics features..."
-# python Python/Radiomics/TestRadiomics.py --image /path/to/image.nii.gz --mask /path/to/mask.nii.gz --output /path/to/features.csv
+# python Python/Radiomics/TestRadiomics.py --input_ct /path/to/image.nii.gz --input_mask /path/to/mask.nii.gz
 
 # 4. Compute SUV maps for PET data
 # echo "Computing SUV maps..."
-# python Python/Radiomics/ComputeSUVMap.py --input_dir /path/to/pet/dicom --output /path/to/suv_map.nii.gz
+# python Python/Radiomics/ComputeSUVMap.py --input_pet /path/to/pet/dicom/folder --output /path/to/suv_map.nii.gz
 
 # 5. Create overlay visualizations
 # echo "Creating overlay visualizations..."
-# python Python/OverlaySegmentation.py --image /path/to/image.nii.gz --mask /path/to/segmentation.nii.gz --output /path/to/overlay.png
+# python Python/OverlaySegmentation.py /path/to/image.nii.gz /path/to/segmentation.nii.gz /path/to/overlay.png --opacity 0.8 --slice_orientation axial
 
 # Add your processing commands here:
 echo "Starting Head & Neck Cancer processing pipeline..."

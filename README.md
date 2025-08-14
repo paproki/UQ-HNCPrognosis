@@ -62,27 +62,30 @@ pip install monai                    # Medical AI framework
 ```bash
 # Basic conversion
 python Python/RTStructToNifti.py \
-    --input_dicom /path/to/patient/dicom \
-    --rtstruct_file /path/to/rtstruct.dcm \
-    --output_dir /path/to/output \
-    --reference_image /path/to/reference.nii.gz
+    --rtstruct /path/to/rtstruct.dcm \
+    --reference /path/to/ct/dicom/folder \
+    --output /path/to/output_labels.nii.gz
 
-# Advanced conversion with configuration
+# Advanced conversion with precision options
 python Python/RTStructToNifti_advanced.py \
-    --config Configs/HNC_Quebec_regions_tumor.json \
-    --input_dir /path/to/data \
-    --output_dir /path/to/results
+    --rtstruct /path/to/rtstruct.dcm \
+    --reference /path/to/ct/dicom/folder \
+    --output /path/to/output_labels.nii.gz \
+    --structlist Configs/HNC_Quebec_regions_tumor.json \
+    --precision-method precise \
+    --subpixel-precision
 ```
 
 #### 2. Batch Process Multiple Patients
 
 ```bash
-# Process entire dataset
+# Process entire dataset with RTStruct conversion and SUV maps
 python Python/FindAndConvertRTStructs.py \
     --input_dir /path/to/patient/folders \
     --output_dir /path/to/results \
     --structlist Configs/HNC_RADCURE_regions_tumor_nodes.json \
-    --dodicom --dortstruct --dosuv
+    --id Patient001 \
+    --dosuv --dortstruct
 ```
 
 #### 3. Extract Radiomics Features
@@ -90,25 +93,45 @@ python Python/FindAndConvertRTStructs.py \
 ```bash
 # Compute SUV maps for PET
 python Python/Radiomics/ComputeSUVMap.py \
-    --input_dir /path/to/pet/dicom \
+    --input_pet /path/to/pet/dicom/folder \
     --output /path/to/suv_map.nii.gz
 
 # Extract radiomics features
 python Python/Radiomics/TestRadiomics.py \
-    --image /path/to/ct_image.nii.gz \
-    --mask /path/to/tumor_mask.nii.gz \
-    --output /path/to/features.csv
+    --input_ct /path/to/ct_image.nii.gz \
+    --input_mask /path/to/tumor_mask.nii.gz
 ```
 
 #### 4. Create Visualizations
 
 ```bash
-# Generate overlay images
+# Generate overlay images (positional arguments)
 python Python/OverlaySegmentation.py \
-    --image /path/to/ct_image.nii.gz \
-    --mask /path/to/segmentation.nii.gz \
-    --output /path/to/overlay.png \
-    --slice_orientation axial
+    /path/to/ct_image.nii.gz \
+    /path/to/segmentation.nii.gz \
+    /path/to/overlay.png \
+    --opacity 0.8 \
+    --num_slices 5 \
+    --slice_orientation axial \
+    --wireframe
+
+# Alternative enhanced overlay tool
+python Python/OverlaySegmentation_deepseek.py \
+    /path/to/ct_image.nii.gz \
+    /path/to/segmentation.nii.gz \
+    /path/to/overlay.png \
+    --opacity 0.5 \
+    --num_slices 6 \
+    --orientation coronal
+```
+
+#### 5. Additional Utilities
+
+```bash
+# Extract unique ROI names from RTStruct files
+python Python/Filter_unique_RTStructs.py \
+    --input_dir /path/to/rtstruct/files \
+    --output /path/to/unique_rois.txt
 ```
 
 ## HPC Processing
